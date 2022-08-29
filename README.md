@@ -2,7 +2,7 @@
 
   I am studying to be a programmer at UTN - Universidad Tecnológica Nacional. On the other hand 
   
-  I am also self studying Web Development with the MERN Stack.🌱 I’m currently learning React.js, Node.js and C# (.NET).
+  I am also self studying Web Development with the MERN Stack.🌱 I’m currently learning React.js, Node.js.
   
   I am searching for the opportunity to collaborate in a entry level position in software development.
   
